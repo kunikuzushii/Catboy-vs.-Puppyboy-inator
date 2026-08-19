@@ -62,6 +62,8 @@ Live Scoring Demo (Application):
 
 
 ## BILL OF MATERIALS
+
+
 | Name | Qty | Unit | Price (USD) | Total (USD) | MOQ | MOQ Price | Source |
 | :--- | :---: | :---: | ---: | ---: | :---: | ---: | :--- |
 | Seeed XIAO ESP32S3 Sense (Pre-Soldered) | 1 | pcs | $14.90 | $14.90 | 1 | $14.90 | [Order](https://www.seeedstudio.com/Seeed-Studio-XIAO-ESP32S3-Sense-Pre-Soldered-p-6335.html) |
