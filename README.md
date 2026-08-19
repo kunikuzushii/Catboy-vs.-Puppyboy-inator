@@ -38,14 +38,26 @@ I learned AI and machine learning in my AP CSA class and decided that yeah, my k
 
 
 CAD image:
+
+
 <img width="474" height="494" alt="image" src="https://github.com/user-attachments/assets/1f4e918d-1549-41fd-859f-7b62b5eda415" />
 
 
 PCB:
-<img width="1206" height="651" alt="image" src="https://github.com/user-attachments/assets/11690457-a0b0-41ad-8ded-4cb7d71f9ed6" />
+
+
+<img width="1195" height="689" alt="image" src="https://github.com/user-attachments/assets/aafb0ef7-5e71-4387-86b1-48d6820deb90" />
+
+
+<img width="729" height="866" alt="image" src="https://github.com/user-attachments/assets/3c41c299-1bf7-4134-995f-7ed2c42142b7" />
+
+
 
 
 Live Scoring Demo (Application): 
+
+
+
 <img width="624" height="640" alt="image" src="https://github.com/user-attachments/assets/62a9901b-c821-4f5b-9b6d-c6925e0debee" />
 
 
